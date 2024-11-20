@@ -7,6 +7,6 @@ Este é um sistema simples para gerenciar pedidos, pagamentos, funcionários e c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/joalheria.git
+   [git clone https://github.com/seu-usuario/joalheria.git](https://github.com/Helvio-Lourenco/JoalhariaProject.git)
 
    Relembrar que deve criar uma pasta csv, por exemplo no bloco de notas e em Repository deve alterar o caminho para a pasta, essa pasta será usada para armazenar os dados e efetuar o sistema CRUD.
